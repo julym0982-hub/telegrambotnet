@@ -6,3 +6,5 @@ sqlalchemy
 apscheduler
 asyncio
 logging
+fastapi
+uvicorn
