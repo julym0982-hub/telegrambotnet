@@ -26,5 +26,5 @@ services:
         value: 30
     disk:
       name: bot-data
-      mountPath: /home/render/project/src/database
+      mountPath: /opt/render/project/src/database
       sizeGB: 1
