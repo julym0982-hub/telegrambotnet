@@ -1,10 +1,7 @@
 
 aiogram
 pyrogram
-tgcrypto
 sqlalchemy
 apscheduler
-asyncio
-logging
 fastapi
 uvicorn
